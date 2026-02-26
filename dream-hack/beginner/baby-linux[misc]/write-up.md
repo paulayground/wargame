@@ -6,4 +6,3 @@ dream이라는 웹서버와 상관이 없어보이는 디렉토리 발견.
 ls -l /dream 을 통해 계속 내부로 들어가 flag.txt 파일 발견(cat hint.txt를 통해 flag의 위치도 확인가능)
 flag를 요청에 직접 넣으면 No를 리턴하기 때문에 cat dream/hack/hello/fl?g.txt 등 와일드카드 마스크를 통해 flag 확인.
 * find . -name "fl?g.txt" 를 통해 flag.txt의 경로를 쉽게 알 수 있는 방법도 있었다.
-![](./images/a_image.png)
