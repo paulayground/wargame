@@ -1,2 +1,2 @@
 check.md
-bandit.env
+*.env*
