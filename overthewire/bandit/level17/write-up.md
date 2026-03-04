@@ -20,5 +20,3 @@ diff password.new password.old
 ```
 
 # Flag
-
-- 정답
